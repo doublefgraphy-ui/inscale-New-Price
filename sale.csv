@@ -1,38 +1,74 @@
-﻿floor,brand,name,category,retail_price,discount_rate,sale_price,designer,size,material,color,origin,note,image
-4F,KNOLL,Saarinen Round 1200 - Laminate,TABLE,6000000,50,3000000,Eero Saarinen,Ø1200 x H720,White Laminate / White Rilsan,White,,,images/01-saarinen-round-1200-laminate.jpg
-4F,KNOLL,Tulip Arm Chair,CHAIR,5410000,70,1600000,Eero Saarinen,W680 x D590 x H480-810,Molded fiberglass / Leather Y. AU613,White,,방석오염,images/02-tulip-arm-chair.jpg
-4F,KNOLL,Tulip Arm Chair - Tonus 216,CHAIR,4550000,50,2275000,Eero Saarinen,W680 x D590 x H480-810,Molded fiberglass / Fabric Cat. C (Tonus 216),White / Tonus 216,,,images/03-tulip-arm-chair-tonus-216.jpg
-4F,KNOLL,Tulip Armless Chair - Dark Blue,CHAIR,3780000,50,1890000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. C Tonus 132T,White / Dark Blue,,,images/04-tulip-armless-chair-dark-blue.jpg
-4F,KNOLL,Tulip Armless Chair - Medium Yellow,CHAIR,3780000,50,1890000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. C Tonus 440T,White / Medium Yellow,,,images/05-tulip-armless-chair-medium-yellow.jpg
-4F,KNOLL,Tulip Armless Chair - EVA Rose,CHAIR,3810000,50,1905000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. S EVA,White / Rose,Italy,,images/06-tulip-armless-chair-eva-rose.jpg
-4F,KNOLL,Bertoia Chair,CHAIR,2620000,50,1300000,Harry Bertoia,W540 x D580 x H730-460,Hallingdal 407H Seat Pad / Polished Chrome Frame,White-Yellow,Italy,,images/07-bertoia-chair.jpg
-4F,KNOLL,Spoleto,CHAIR,2590000,65,900000,Ufficio Tecnico,W580 x D590 x H460-790,Cowhide L80,Black,Italy,,images/08-spoleto.jpg
-4F,KNOLL,Cesca Chair,CHAIR,1610000,50,805000,Marcel Breuer,W460 x D580 x H460-800,Black Satin Stain / Machine Woven Cane / Tubular Steel,Black / Cane,Italy,,images/09-cesca-chair.jpg
-4F,KNOLL,Platner Arm Chair Eva Velvet,CHAIR,7010000,50,3505000,Warren Platner,W730 x D580 x H760 x SH500,Steel Wire / Eva Velvet,Eva,Italy,,images/10-platner-arm-chair-eva-velvet.jpg
-4F,KNOLL,Wassily Chair Black,CHAIR,5770000,50,2780000,Marcel Breuer,W790 x D690 x H420-730,Tubular Steel / Belting Leather BLBLK,Black,Italy,,images/11-wassily-chair-black.jpg
-4F,KNOLL,Wassily Chair Warm Beige,CHAIR,5770000,50,2780000,Marcel Breuer,W790 x D690 x H420-730,Tubular Steel / Belting Leather BL1924,Warm Beige,Italy,,images/12-wassily-chair-warm-beige.jpg
-4F,KNOLL,Wassily Chair W/White,CHAIR,5570000,50,2785000,Marcel Breuer,W790 x D690 x H420-730,White Matte Frame / Belting Leather BL785 White (BL1914),White,,,images/13-wassily-chair-w-white.jpg
-4F,KNOLL,Tulip Arm Chair,CHAIR,9390000,50,4695000,Ludwig Mies van der Rohe,W650 x D970 x H440-830,Polished Chrome / Leather Y. AU613,White,,,images/14-tulip-arm-chair.jpg
-4F,KNOLL,Pollock Arm Chair Natural,CHAIR,6120000,50,3060000,Charles Pollock,W640 x D660 x H410-705,Tubular Steel / Aluminium Arms / Velluto Pelle Cushions,Natural / Black,,,images/15-pollock-arm-chair-natural.jpg
-4F,KNOLL,Barcelona Chair Leather W Black + Stool,CHAIR,23620000,50,11810000,Mies van der Rohe,Chair W750 x D770 x H430-770 / Stool W590 x D595 x H390,Aluminium Hand-buffed Mirror Finish / Leather W,Black,,Chair + Stool Set,images/16-barcelona-chair-leather-w-black-stool.jpg
-4F,KNOLL,Florence Knoll Low Coffee Table,TABLE,8560000,50,4280000,Florence Knoll,W1200 x D1200 x H350,"Arabescato Marble, Glossy / Polished Chrome",White Marble / Chrome,,,images/17-florence-knoll-low-coffee-table.jpg
-4F,KNOLL,Laccio Side Table Limited Edition,TABLE,2800000,50,1400000,Marcel Breuer,W550 x D480 x H450,Statuarietto Marble,Matte,Italy,,images/18-laccio-side-table-limited-edition.jpg
-4F,KNOLL,Girard Coffee Table,TABLE,3070000,50,1535000,Alexander Girard,W1500 x D660 x H410,Walnut Veneer / Black Powder-coated Steel,Walnut / Black,Italy,,images/19-girard-coffee-table.jpg
-4F,CASSINA,BOWY,TABLE,5770000,70,1700000,Patricia Urquiola,Ø900 x H350,Lacquered Aluminium Sheet,Glossy Lacquered Blue,Italy,스크래치,images/20-bowy.jpg
-4F,KNOLL,Matic Credenza (on Feet),STORAGE,15190000,50,7590000,Piero Lissoni,W1800 x D650 x H405,Nero Marquina Top / Painted Base,Nero Marquina / Charcoal,,,images/21-matic-credenza-on-feet.jpg
-4F,ARTEMIDE,Tolomeo Mega Floor Black 360,LIGHTING,2220000,40,1332000,Michele De Lucchi & Giancarlo Fassina,W1130 x H2380,Aluminium / Black Silk,Black,Italy,,images/22-tolomeo-mega-floor-black-360.jpg
-4F,MARSET,Theia,LIGHTING,2390000,40,1434000,Mathias Hahn,Ø32 x H43.5,,,,,images/23-theia.jpg
-4F,VIBIA,Mayfair Mini 5495 Terra Dark,LIGHTING,740000,40,444000,Diego Fortunato,Ø200 x 120 x H380,Polycarbonate / Steel / Methacrylate,Terra Red,,,images/24-mayfair-mini-5495-terra-dark.jpg
-4F,MUUTO,OUTLINE SOFA 3-seater Cognac,SOFA,12459000,50,6229500,Anderssen & Voll,W220 x H71 x D84 x SH40,Leather / Aluminium Base,Cognac,,,images/25-outline-sofa-3-seater-cognac.jpg
-4F,MUUTO,OUTLINE SOFA 3-seater Black,SOFA,12459000,50,6229500,Anderssen & Voll,W220 x H71 x D84 x SH40,Leather / Aluminium Base,Black,Italy,,images/26-outline-sofa-3-seater-black.jpg
-4F,MUUTO,Compile Shelving System Configuration 1,STORAGE,1302000,50,651000,Cecilie Manz,W121 x D42 x H67.5cm,Black Powder-coated Steel,Black,Poland,,images/27-compile-shelving-system-configuration-1.jpg
-4F,MUUTO,Compile Shelving System Configuration 2,STORAGE,1924000,50,962000,Cecilie Manz,W121 x D42 x H78cm,Black Powder-coated Steel,Black,Poland,,images/28-compile-shelving-system-configuration-2.jpg
-4F,MUUTO,Around Coffee Table Extra Large,TABLE,1814000,50,907000,Thomas Bentzen,Ø95 x H36cm,Oak / Oak Plywood / Solid Oak Legs,Oak,Latvia,,images/29-around-coffee-table-extra-large.jpg
-4F,MUUTO,Around Coffee Table Large - Dusty Green,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs / Water-based Lacquer,Dusty Green,,,images/30-around-coffee-table-large-dusty-green.jpg
-4F,MUUTO,Around Coffee Table Small - Oak,TABLE,871000,50,435500,Thomas Bentzen,Ø45 x H46cm,Oak / Oak Plywood / Solid Oak Legs,Oak,,,images/31-around-coffee-table-small-oak.jpg
-4F,MUUTO,Around Coffee Table Small - Light Blue,TABLE,871000,50,435500,Thomas Bentzen,Ø45 x H46cm,Ash Plywood / Solid Ash Legs,Light Blue,,,images/32-around-coffee-table-small-light-blue.jpg
-4F,MUUTO,Around Coffee Table Large - Anthracite,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs,Anthracite,,,images/33-around-coffee-table-large-anthracite.jpg
-4F,MUUTO,Around Coffee Table Large - Dusty Green,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs,Dusty Green,,,images/34-around-coffee-table-large-dusty-green.jpg
-4F,MUUTO,Midst Table Dark Red Linoleum,TABLE,6324000,50,3162000,TAF Studio,Ø120 x H73cm,Dark Red Linoleum / Spun Steel High Gloss,Dark Red,,,images/35-midst-table-dark-red-linoleum.jpg
-4F,MUUTO,Cover Side Chair Green,CHAIR,1007000,50,503500,Thomas Bentzen,W53.6 x H75.4 x SH45.4cm,Lacquered Ash Veneer / Lacquered Oak,Green,,,images/36-cover-side-chair-green.jpg
-4F,CASSINA,Capitol Complex Chair 2ea,CHAIR,4330000,50,2165000,Pierre Jeanneret,W450 x D570 x H410-810,Vienna Straw / Oak Stained Black,Black / Cane,,방석포함,images/37-capitol-complex-chair-2ea.jpg
+﻿floor,brand,name,category,retail_price,discount_rate,sale_price,designer,size,material,color,origin,note,review_note,source_page,image
+4F,KNOLL,Saarinen Round 1200 - Laminate,TABLE,6000000,50,3000000,Eero Saarinen,Ø1200 x H720,White Laminate / White Rilsan,White,,,,2,images/001-saarinen-round-1200-laminate.jpg
+4F,KNOLL,Tulip Arm Chair,CHAIR,5410000,70,1600000,Eero Saarinen,W680 x D590 x H480-810,Molded fiberglass / Leather Y. AU613,White,,방석오염,,2,images/002-tulip-arm-chair.jpg
+4F,KNOLL,Tulip Arm Chair - Tonus 216,CHAIR,4550000,50,2275000,Eero Saarinen,W680 x D590 x H480-810,Molded fiberglass / Fabric Cat. C (Tonus 216),White / Tonus 216,,,,2,images/003-tulip-arm-chair-tonus-216.jpg
+4F,KNOLL,Tulip Armless Chair - Dark Blue,CHAIR,3780000,50,1890000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. C Tonus 132T,White / Dark Blue,,,,2,images/004-tulip-armless-chair-dark-blue.jpg
+4F,KNOLL,Tulip Armless Chair - Medium Yellow,CHAIR,3780000,50,1890000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. C Tonus 440T,White / Medium Yellow,,,,2,images/005-tulip-armless-chair-medium-yellow.jpg
+4F,KNOLL,Tulip Armless Chair - EVA Rose,CHAIR,3810000,50,1905000,Eero Saarinen,W490 x D530 x H490-810,Molded fiberglass / Fabric Cat. S EVA,White / Rose,Italy,,,3,images/006-tulip-armless-chair-eva-rose.jpg
+4F,KNOLL,Bertoia Chair,CHAIR,2620000,50,1300000,Harry Bertoia,W540 x D580 x H730-460,Hallingdal 407H Seat Pad / Polished Chrome Frame,White-Yellow,Italy,,,3,images/007-bertoia-chair.jpg
+4F,KNOLL,Spoleto,CHAIR,2590000,65,900000,Ufficio Tecnico,W580 x D590 x H460-790,Cowhide L80,Black,Italy,,,3,images/008-spoleto.jpg
+4F,KNOLL,Cesca Chair,CHAIR,1610000,50,805000,Marcel Breuer,W460 x D580 x H460-800,Black Satin Stain / Machine Woven Cane / Tubular Steel,Black / Cane,Italy,,,3,images/009-cesca-chair.jpg
+4F,KNOLL,Platner Arm Chair Eva Velvet,CHAIR,7010000,50,3505000,Warren Platner,W730 x D580 x H760 x SH500,Steel Wire / Eva Velvet,Eva,Italy,,,3,images/010-platner-arm-chair-eva-velvet.jpg
+4F,KNOLL,Wassily Chair Black,CHAIR,5770000,50,2780000,Marcel Breuer,W790 x D690 x H420-730,Tubular Steel / Belting Leather BLBLK,Black,Italy,,,4,images/011-wassily-chair-black.jpg
+4F,KNOLL,Wassily Chair Warm Beige,CHAIR,5770000,50,2780000,Marcel Breuer,W790 x D690 x H420-730,Tubular Steel / Belting Leather BL1924,Warm Beige,Italy,,,4,images/012-wassily-chair-warm-beige.jpg
+4F,KNOLL,Wassily Chair W/White,CHAIR,5570000,50,2785000,Marcel Breuer,W790 x D690 x H420-730,White Matte Frame / Belting Leather BL785 White (BL1914),White,,,,4,images/013-wassily-chair-w-white.jpg
+4F,KNOLL,MR Arm Chair,CHAIR,9390000,50,4695000,Ludwig Mies van der Rohe,W650 x D970 x H440-830,Polished Chrome / Leather Y. AU613,White,,,,4,images/014-tulip-arm-chair.jpg
+4F,KNOLL,Pollock Arm Chair Natural,CHAIR,6120000,50,3060000,Charles Pollock,W640 x D660 x H410-705,Tubular Steel / Aluminium Arms / Velluto Pelle Cushions,Natural / Black,,,,4,images/015-pollock-arm-chair-natural.jpg
+4F,KNOLL,Barcelona Chair Leather W Black + Stool,CHAIR,23620000,50,11810000,Mies van der Rohe,Chair W750 x D770 x H430-770 / Stool W590 x D595 x H390,Aluminium Hand-buffed Mirror Finish / Leather W,Black,,Chair + Stool Set,,5,images/016-barcelona-chair-leather-w-black-stool.jpg
+4F,KNOLL,Florence Knoll Low Coffee Table,TABLE,8560000,50,4280000,Florence Knoll,W1200 x D1200 x H350,"Arabescato Marble, Glossy / Polished Chrome",White Marble / Chrome,,,,5,images/017-florence-knoll-low-coffee-table.jpg
+4F,KNOLL,Laccio Side Table Limited Edition,TABLE,2800000,50,1400000,Marcel Breuer,W550 x D480 x H450,Statuarietto Marble,Matte,Italy,,,5,images/018-laccio-side-table-limited-edition.jpg
+4F,KNOLL,Girard Coffee Table,TABLE,3070000,50,1535000,Alexander Girard,W1500 x D660 x H410,Walnut Veneer / Black Powder-coated Steel,Walnut / Black,Italy,,,5,images/019-girard-coffee-table.jpg
+4F,CASSINA,BOWY,TABLE,5770000,70,1700000,Patricia Urquiola,Ø900 x H350,Lacquered Aluminium Sheet,Glossy Lacquered Blue,Italy,스크래치,,5,images/020-bowy.jpg
+4F,KNOLL,Matic Credenza (on Feet),STORAGE,15190000,50,7590000,Piero Lissoni,W1800 x D650 x H405,Nero Marquina Top / Painted Base,Nero Marquina / Charcoal,,,,6,images/021-matic-credenza-on-feet.jpg
+4F,ARTEMIDE,Tolomeo Mega Floor Black 360,LIGHTING,2220000,40,1332000,Michele De Lucchi & Giancarlo Fassina,W1130 x H2380,Aluminium / Black Silk,Black,Italy,,,6,images/022-tolomeo-mega-floor-black-360.jpg
+4F,FLOS,Snoopy Table Lamp - Green,LIGHTING,2870000,40,1722000,Achille & Pier Castiglioni,39.4 x H37cm,Marble / Steel,Green,Italy,,,6,images/023-snoopy-table-lamp-green.jpg
+4F,MARSET,Theia,LIGHTING,2390000,40,1434000,Mathias Hahn,Ø32 x H43.5,,,,,,6,images/024-theia.jpg
+4F,VIBIA,Mayfair Mini 5495 Terra Dark,LIGHTING,740000,40,444000,Diego Fortunato,Ø200 x 120 x H380,Polycarbonate / Steel / Methacrylate,Terra Red,,,,6,images/025-mayfair-mini-5495-terra-dark.jpg
+4F,MUUTO,OUTLINE SOFA 3-seater Cognac,SOFA,12459000,50,6229500,Anderssen & Voll,W220 x H71 x D84 x SH40,Leather / Aluminium Base,Cognac,,,,7,images/026-outline-sofa-3-seater-cognac.jpg
+4F,MUUTO,OUTLINE SOFA 3-seater Black,SOFA,12459000,50,6229500,Anderssen & Voll,W220 x H71 x D84 x SH40,Leather / Aluminium Base,Black,Italy,,,7,images/027-outline-sofa-3-seater-black.jpg
+4F,MUUTO,Compile Shelving System Configuration 1,STORAGE,1302000,50,651000,Cecilie Manz,W121 x D42 x H67.5cm,Black Powder-coated Steel,Black,Poland,,,7,images/028-compile-shelving-system-configuration-1.jpg
+4F,MUUTO,Compile Shelving System Configuration 2,STORAGE,1924000,50,962000,Cecilie Manz,W121 x D42 x H78cm,Black Powder-coated Steel,Black,Poland,,,7,images/029-compile-shelving-system-configuration-2.jpg
+4F,MUUTO,Around Coffee Table Extra Large,TABLE,1814000,50,907000,Thomas Bentzen,Ø95 x H36cm,Oak / Oak Plywood / Solid Oak Legs,Oak,Latvia,,,7,images/030-around-coffee-table-extra-large.jpg
+4F,MUUTO,Around Coffee Table Large - Dusty Green,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs / Water-based Lacquer,Dusty Green,,,,7,images/031-around-coffee-table-large-dusty-green.jpg
+4F,MUUTO,Around Coffee Table Small - Oak,TABLE,871000,50,435500,Thomas Bentzen,Ø45 x H46cm,Oak / Oak Plywood / Solid Oak Legs,Oak,,,,8,images/032-around-coffee-table-small-oak.jpg
+4F,MUUTO,Around Coffee Table Small - Light Blue,TABLE,871000,50,435500,Thomas Bentzen,Ø45 x H46cm,Ash Plywood / Solid Ash Legs,Light Blue,,,,8,images/033-around-coffee-table-small-light-blue.jpg
+4F,MUUTO,Around Coffee Table Large - Anthracite,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs,Anthracite,,,,8,images/034-around-coffee-table-large-anthracite.jpg
+4F,MUUTO,Around Coffee Table Large - Dusty Green,TABLE,1410000,50,705000,Thomas Bentzen,Ø72 x H36cm,Ash Plywood / Solid Ash Legs,Dusty Green,,,,8,images/035-around-coffee-table-large-dusty-green.jpg
+4F,MUUTO,Midst Table Dark Red Linoleum,TABLE,6324000,50,3162000,TAF Studio,Ø120 x H73cm,Dark Red Linoleum / Spun Steel High Gloss,Dark Red,,,,8,images/036-midst-table-dark-red-linoleum.jpg
+4F,MUUTO,Cover Side Chair Green,CHAIR,1007000,50,503500,Thomas Bentzen,W53.6 x H75.4 x SH45.4cm,Lacquered Ash Veneer / Lacquered Oak,Green,,,,8,images/037-cover-side-chair-green.jpg
+4F,CASSINA,Capitol Complex Chair 2ea,CHAIR,4330000,50,2165000,Pierre Jeanneret,W450 x D570 x H410-810,Vienna Straw / Oak Stained Black,Black / Cane,,방석포함,,8,images/038-capitol-complex-chair-2ea.jpg
+4F,ZANOTTA,Sella Stool,STOOL,2030000,50,1015000,Achille & Pier Giacomo Castiglioni,W330 x H710,Steel / Cast Iron / Racing-bicycle Seat,Pink,,,,9,images/073-sella-stool.jpg
+2F,CASSINA,Esosoft Sofa Backrest at two heights,SOFA,17230000,50,8615000,Antonio Citterio,W2450 x D870 x H410-560,Fabric Cat. L / Aluminium Base,,,,,11,images/039-esosoft-sofa-backrest-at-two-heights.jpg
+2F,CASSINA,Esosoft Sofa Right armrest,SOFA,16130000,50,8065000,Antonio Citterio,W2250 x D870 x H410-560,Fabric L / Aluminium Base,,,,,11,images/040-esosoft-sofa-right-armrest.jpg
+2F,CASSINA,Esosoft Bench,BENCH,7010000,50,3505000,Antonio Citterio,W1860 x D620 x H410,Fabric Cat. L / Aluminium Glazed Base,,,,,11,images/041-esosoft-bench.jpg
+2F,CASSINA,ESOSOFT Cushions 2ea,ACCESSORY,1910000,50,955000,Antonio Citterio,600×800 + 600×600,Polyurethane Foam,,,"600×800 ₩1,090,000 + 600×600 ₩820,000",,11,images/042-esosoft-cushions-2ea.jpg
+2F,CASSINA,944 Soriana - 3 Seater Sofa - L023,SOFA,26670000,50,13335000,Tobia Scarpa,W2500 x D1050 x H420-710,Fabric Cat. L023 / Metal Frame,China Red,,,,11,images/043-944-soriana-3-seater-sofa-l023.jpg
+2F,CASSINA,944 Soriana - 3 Seater Sofa - Luxor L034,SOFA,26670000,50,13335000,Tobia Scarpa,W2500 x D1050 x H420-710,Fabric Luxor L034 / Metal Frame,Night Blue,,,,12,images/044-944-soriana-3-seater-sofa-luxor-l034.jpg
+2F,CASSINA,944 Soriana - Armchair - Luxor L030,CHAIR,11260000,50,5630000,Tobia Scarpa,W950 x D1050 x H420-710,Fabric Luxor L030 / Metal Frame,China Red,,,,12,images/045-944-soriana-armchair-luxor-l030.jpg
+2F,CASSINA,944 Soriana - Armchair - Ortigia 13L659,CHAIR,11760000,50,5880000,Tobia Scarpa,W950 x D1050 x H420-710,Fabric Ortigia 13L659 / Metal Frame,Glossy White,,,,12,images/046-944-soriana-armchair-ortigia-13l659.jpg
+2F,CASSINA,Accordo,TABLE,10950000,50,5475000,Charlotte Perriand,Ø1250 x H300,Gloss Lacquered Panel,Marron Glace,Italy,,,12,images/047-accordo.jpg
+2F,CASSINA,Cornaro - 2 Seater - Crema,SOFA,26810000,50,13405000,Carlo Scarpa,W2200 x D970 x H400-660,Fabric Look 13L012 / Glossy Lacquered Frame,Crema,Italy,,,12,images/048-cornaro-2-seater-crema.jpg
+2F,CASSINA,Cornaro Armchair - Crema,CHAIR,13520000,50,6760000,Carlo Scarpa,W1150 x D890 x H400-660,Fabric Lookbold 13L466 / Glossy Lacquered Frame,Crema,Italy,,,12,images/049-cornaro-armchair-crema.jpg
+2F,CASSINA,Utrecht Holiday Edition,CHAIR,9530000,50,5630000,Gerrit Thomas Rietveld,W640 x D850 x H370-700,Holiday Edition Upholstery,Red,,,"PDF 표기: 50% 할인 / ₩5,630,000 (계산 불일치 - 확인 필요)",13,images/050-utrecht-holiday-edition.jpg
+2F,CASSINA,Utrecht,CHAIR,8660000,50,4330000,Gerrit Thomas Rietveld,W640 x D850 x H370-700,Fabric Lincoln,Petrolio,,,,13,images/051-utrecht.jpg
+2F,CASSINA,LC1,CHAIR,6440000,50,3220000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W600 x D650 x H400-640,Chrome Frame / Upholstery,Black,,,,13,images/052-lc1.jpg
+2F,CASSINA,LC1 [60th Limited Edition],CHAIR,7250000,50,3625000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W600 x D650 x H400-640,Saddle Leather Seat & Back / Gloss Frame,Red,,,,13,images/053-lc1-60th-limited-edition.jpg
+2F,CASSINA,LC2 [60th Limited Edition],CHAIR,13620000,50,6810000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W760 x D700 x H480-670,Lirico Fabric / Glossy Frame,Blue,,,,13,images/054-lc2-60th-limited-edition.jpg
+2F,CASSINA,LC2 - Luxor 13L034,CHAIR,9880000,50,4940000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W760 x D700 x H480-670,Polyester Padding / Fabric Luxor 13L034 / Painted Enamel Frame,Taupe,,,,13,images/055-lc2-luxor-13l034.jpg
+2F,CASSINA,LC3 ArmChair Grade-Y Black,CHAIR,13200000,50,6600000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W990 x D730 x H410-630,Feather Padding / Leather Y / Chrome Frame,Black,,,,14,images/056-lc3-armchair-grade-y-black.jpg
+2F,CASSINA,Cornaro - Pinot Noir,CHAIR,13520000,50,6760000,Carlo Scarpa,W1150 x D890 x H400-660,Fabric 13L015 / Glossy Lacquered Frame,Pinot Noir,,,,14,images/057-cornaro-pinot-noir.jpg
+2F,CASSINA,Capitolcomplex - Leather Bianco,CHAIR,8660000,50,4330000,Pierre Jeanneret,W690 x D760 x H370-740,Leather LCX247 / Oak Stained Frame,Bianco / Black,,,,14,images/058-capitolcomplex-leather-bianco.jpg
+2F,CASSINA,Capitol Complex - Fabric Look Corda,CHAIR,7670000,50,3835000,Pierre Jeanneret,W690 x D760 x H370-740,Fabric Look Corda / Oak Frame,Corda / Oak,,,,14,images/059-capitol-complex-fabric-look-corda.jpg
+2F,CASSINA,LC7,CHAIR,6430000,50,3215000,Charlotte Perriand,W600 x D580 x H500-730,Leather Cat. Y / Black Enamel Frame,Black / White,Italy,,,14,images/060-lc7.jpg
+2F,WALTER KNOLL,CAB,CHAIR,3070000,50,1535000,Eoos,W500 x D480 x H465-800,Paco Leather 1421,,Italy,,,14,images/061-cab.jpg
+2F,CASSINA,DUDET,CHAIR,3660000,50,1830000,Patricia Urquiola,W600 x D510 x H750-460,Falkland Minerale 13F178,,,,,15,images/062-dudet.jpg
+2F,CASSINA,Constantin,TABLE,6510000,50,3255000,Studio Simon,Ø480 x 590,Brass Top / Solid Oak Base,,,,,15,images/063-constantin.jpg
+2F,CASSINA,Modular Imagination,TABLE,3370000,50,1685000,Virgil Abloh,W450 x D450,Recycled Wood,Mat Black / Mat Orange Feet (RAL 2000),,,,15,images/064-modular-imagination.jpg
+2F,CASSINA,Reaction Poetique,TABLE,2540000,50,1270000,Jamie Hayon,Ø400 x H560,Solid Ash,Ashwood Stained Black,,,,15,images/065-reaction-poetique.jpg
+2F,CASSINA,"ZIGZAG Yellow, Blue, White",CHAIR,4330000,55,1948500,Gerrit T. Rietveld,W370 x D430 x H430-740,Ashwood Stained,Yellow / Blue / White,,갈라짐,,15,images/066-zigzag-yellow-blue-white.jpg
+2F,CASSINA,Bramante,STORAGE,29450000,50,14725000,Kazuhide Takahama,W1670 x D440 x H1330,Gloss Red Structure with LED,Red,,,,16,images/067-bramante.jpg
+2F,CASSINA,LC20 Casier,STORAGE,25030000,50,12515000,"Le Corbusier, Pierre Jeanneret, Charlotte Perriand",W2250 x D380-450 x H1120,Mud-stained Oak / Grey-stained Oak / Grey Lacquered Metal,,Italy,,,16,images/068-lc20-casier.jpg
+2F,CASSINA,Riflesso,STORAGE,20240000,50,10120000,Charlotte Perriand,W2010 x D440 x H700,Natural Anodized Aluminium Door / Exterior Black / Interior Burgundy,Black / Burgundy,,,,16,images/069-riflesso.jpg
+2F,CASSINA,526 Nuage,STORAGE,13630000,50,6815000,Charlotte Perriand,W3100 x D34,Natural Oak / Mat Black Partition,,Italy,,,16,images/070-526-nuage.jpg
+2F,ARTEMIDE,Onfale Grande,LIGHTING,1880000,40,1128000,Luciano Vistosi,Ø360 x H440,Blown Glass,White,Italy,,,17,images/071-onfale-grande.jpg
+2F,ARTEMIDE,Onfale Piccolo,LIGHTING,850000,40,510000,Luciano Vistosi,Ø200 x H260,Blown Glass,White,Italy,,,17,images/072-onfale-piccolo.jpg
