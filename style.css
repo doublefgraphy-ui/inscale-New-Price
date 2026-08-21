@@ -65,3 +65,280 @@ body {
   .card { border-radius:18px; } .thumb { aspect-ratio:16/11; }
   .card-body { padding:15px; } .name { font-size:18px; } .sale-price { font-size:24px; }
 }
+
+
+/* ===== Main category tabs ===== */
+.mode-tabs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.mode-btn {
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  background: #fff;
+  color: var(--text);
+  padding: 10px 14px;
+  font-size: 14px;
+  font-weight: 900;
+  cursor: pointer;
+}
+
+.mode-btn.is-active {
+  background: var(--dark);
+  border-color: var(--dark);
+  color: #fff;
+}
+
+.mode-btn.saarinen {
+  color: #174a7a;
+  border-color: rgba(23, 74, 122, .28);
+}
+
+.mode-btn.saarinen.is-active {
+  background: #174a7a;
+  border-color: #174a7a;
+  color: #fff;
+}
+
+/* ===== Saarinen filters ===== */
+.saarinen-tabs[hidden] { display: none; }
+
+.saarinen-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 10px;
+}
+
+.saarinen-filter-btn {
+  min-height: 36px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: #fff;
+  color: var(--muted);
+  padding: 7px 12px;
+  font-size: 12px;
+  font-weight: 850;
+  cursor: pointer;
+}
+
+.saarinen-filter-btn.is-active {
+  background: #174a7a;
+  border-color: #174a7a;
+  color: #fff;
+}
+
+/* ===== Saarinen stock list ===== */
+.saarinen-list[hidden] { display: none; }
+
+.saarinen-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+.saarinen-card {
+  overflow: hidden;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.04);
+}
+
+.saarinen-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: flex-start;
+  padding: 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.saarinen-kicker {
+  margin: 0 0 5px;
+  color: #174a7a;
+  font-size: 11px;
+  font-weight: 900;
+  letter-spacing: .08em;
+}
+
+.saarinen-title {
+  margin: 0;
+  font-size: 21px;
+  line-height: 1.25;
+  letter-spacing: -.03em;
+}
+
+.saarinen-summary {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 6px;
+}
+
+.summary-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 5px 9px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.summary-pill.stock {
+  background: #edf5ff;
+  color: #174a7a;
+  border: 1px solid rgba(23,74,122,.18);
+}
+
+.summary-pill.inbound {
+  background: #fff2ef;
+  color: #b51613;
+  border: 1px solid rgba(181,22,19,.16);
+}
+
+.saarinen-variants {
+  padding: 0 18px 6px;
+}
+
+.saarinen-row {
+  display: grid;
+  grid-template-columns: 112px 132px minmax(210px, 1fr) 116px 112px minmax(190px, .9fr);
+  gap: 12px;
+  align-items: start;
+  padding: 15px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.saarinen-row:last-child {
+  border-bottom: 0;
+}
+
+.stock-code {
+  font-size: 12px;
+  line-height: 1.45;
+  font-weight: 900;
+}
+
+.stock-size,
+.stock-finish,
+.stock-price,
+.stock-incoming {
+  font-size: 12px;
+  line-height: 1.45;
+}
+
+.stock-size,
+.stock-finish {
+  color: #4f4a45;
+}
+
+.stock-price {
+  font-weight: 850;
+  white-space: nowrap;
+}
+
+.stock-status {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+}
+
+.stock-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 27px;
+  border-radius: 999px;
+  padding: 5px 9px;
+  font-size: 11px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.stock-pill.available {
+  background: #edf5ff;
+  color: #174a7a;
+  border: 1px solid rgba(23,74,122,.18);
+}
+
+.stock-pill.zero {
+  background: #f1eee9;
+  color: #77736d;
+  border: 1px solid var(--line);
+}
+
+.stock-incoming {
+  color: #b51613;
+  font-weight: 750;
+}
+
+.pi-code {
+  display: block;
+  margin-top: 4px;
+  color: #77736d;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.stock-label {
+  display: none;
+  margin-bottom: 3px;
+  color: var(--muted);
+  font-size: 10px;
+  font-weight: 800;
+  letter-spacing: .04em;
+}
+
+@media (max-width: 980px) {
+  .saarinen-row {
+    grid-template-columns: 104px 120px minmax(180px, 1fr) 108px 104px minmax(160px, .9fr);
+    gap: 9px;
+  }
+}
+
+@media (max-width: 760px) {
+  .mode-tabs { grid-template-columns: 1fr 1fr; }
+  .mode-btn { font-size: 12px; padding: 9px 8px; }
+
+  .saarinen-head {
+    flex-direction: column;
+    padding: 16px;
+  }
+
+  .saarinen-summary {
+    justify-content: flex-start;
+  }
+
+  .saarinen-variants {
+    padding: 0 15px 4px;
+  }
+
+  .saarinen-row {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 14px;
+    padding: 15px 0;
+  }
+
+  .stock-label { display: block; }
+
+  .stock-code,
+  .stock-size,
+  .stock-finish,
+  .stock-price,
+  .stock-incoming {
+    font-size: 12px;
+  }
+
+  .stock-finish,
+  .stock-incoming {
+    grid-column: 1 / -1;
+  }
+}

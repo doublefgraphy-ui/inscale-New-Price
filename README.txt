@@ -1,32 +1,36 @@
-INSCALE DISPLAY SALE - UPDATED 4F + 2F
+INSCALE DISPLAY SALE + SAARINEN 재고&입항
 
-현재 구성
-- 총 73개 DISPLAY SALE 제품
-- 4F: 39개
-- 2F: 34개
-- 필터: ALL / 4F / 2F
-- 추후 B1 데이터를 sale.csv에 추가하면 B1 버튼이 자동 생성됩니다.
+구성
+- DISPLAY SALE: 기존 4F + 2F, 73개 제품
+- SAARINEN 재고&입항: 34 variants
+  · Saarinen Oval Table: 8
+  · Saarinen Round High Table: 11
+  · Saarinen Round Side Table Ø410: 7
+  · Saarinen Round Side Table Ø510: 8
+- Saarinen 현재재고 합계: 36
+- Saarinen PDF 입항예정 수량 합계: 51
 
-이번 PDF 수정 반영
-- Tulip Arm Chair (Ludwig Mies van der Rohe) -> MR Arm Chair
-- ZANOTTA Sella Stool 신규 추가
-  Retail ₩2,030,000 / 50% OFF / ₩1,015,000
-- Onfale Grande -> 40% OFF / ₩1,128,000
-- Onfale Piccolo -> 40% OFF / ₩510,000
+UI
+- 상단 메인 카테고리:
+  DISPLAY SALE | SAARINEN 재고&입항
+- DISPLAY SALE 모드:
+  ALL / 4F / 2F
+- SAARINEN 모드:
+  ALL / OVAL TABLE / ROUND HIGH / ROUND SIDE Ø410 / ROUND SIDE Ø510
+- Saarinen 이미지는 사용하지 않고 모델코드, 사이즈, 마감, 가격, 현재재고, 입항예정, PI CODE 위주로 표시합니다.
 
-기존 사용자 확정값 유지
-- Saarinen Round 1200: 50% / ₩3,000,000
-- Wassily Chair Black: ₩2,780,000
-- Wassily Chair Warm Beige: ₩2,780,000
-- Tolomeo Mega Floor Black 360: 40% / ₩1,332,000
-- Around Coffee Table Large Dusty Green: 50% / ₩705,000
-- Mayfair Mini 5495 Terra Dark 브랜드: VIBIA
-
-참고
-- Utrecht Holiday Edition은 PDF에 Retail ₩9,530,000 / 50% OFF / ₩5,630,000으로 기재되어 있어,
-  계산은 일치하지 않지만 PDF 표기를 그대로 유지했습니다.
+중요
+- 입항 예정일/수량은 제공된 PDF에 적힌 값을 그대로 반영했습니다.
+- PDF에는 8/14, 8/16, 9/16, 9/26 입항예정 값이 포함되어 있습니다.
 
 GitHub 업로드
-1. 기존 inscale-Display-Sale 저장소의 index.html / style.css / script.js / sale.csv / images를 이번 파일로 교체
-2. images 폴더에는 새 Sella Stool 이미지가 추가되어 있으므로 새 images 폴더 전체 업로드 권장
-3. Commit changes 후 GitHub Pages 주소 새로고침
+기존 inscale-Display-Sale 저장소의 파일을 이번 ZIP 내용으로 교체하면 됩니다.
+새로 추가된 saarinen.csv도 반드시 함께 업로드하세요.
+
+필수 파일
+- index.html
+- style.css
+- script.js
+- sale.csv
+- saarinen.csv
+- images/
