@@ -259,10 +259,28 @@
     });
 
     const isSale = mode === "sale";
+
+    // Completely separate the two views.
+    // Use both the hidden attribute and inline display so sale cards can never
+    // remain visible inside the Saarinen stock view (and vice versa).
     productList.hidden = !isSale;
-    saarinenList.hidden = isSale;
     floorTabs.hidden = !isSale;
+    saarinenList.hidden = isSale;
     saarinenTabs.hidden = isSale;
+
+    productList.style.display = isSale ? "" : "none";
+    floorTabs.style.display = isSale ? "" : "none";
+    saarinenList.style.display = isSale ? "none" : "";
+    saarinenTabs.style.display = isSale ? "none" : "";
+
+    // Keep inactive screen content out of the visible flow.
+    if (isSale) {
+      saarinenList.setAttribute("aria-hidden", "true");
+      productList.removeAttribute("aria-hidden");
+    } else {
+      productList.setAttribute("aria-hidden", "true");
+      saarinenList.removeAttribute("aria-hidden");
+    }
 
     if (isSale) {
       searchInput.placeholder = "상품명, 브랜드, 디자이너, 소재 검색";

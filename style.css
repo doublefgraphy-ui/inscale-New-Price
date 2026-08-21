@@ -342,3 +342,15 @@ body {
     grid-column: 1 / -1;
   }
 }
+
+
+/* ===== Mode separation fix =====
+   DISPLAY SALE and SAARINEN are completely independent screens.
+   These !important rules prevent layout display:grid/flex from overriding [hidden].
+*/
+.product-list[hidden],
+.floor-tabs[hidden],
+.saarinen-list[hidden],
+.saarinen-tabs[hidden] {
+  display: none !important;
+}

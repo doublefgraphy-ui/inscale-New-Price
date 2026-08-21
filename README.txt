@@ -34,3 +34,11 @@ GitHub 업로드
 - sale.csv
 - saarinen.csv
 - images/
+
+
+[MODE SEPARATION FIX]
+- DISPLAY SALE과 SAARINEN 재고&입항 화면을 완전히 분리했습니다.
+- DISPLAY SALE 모드에서는 Saarinen 재고 리스트/필터가 숨겨집니다.
+- SAARINEN 모드에서는 DISPLAY SALE 제품 카드와 층 필터가 완전히 숨겨집니다.
+- CSS [hidden] 충돌을 수정했고 JS에서도 이중으로 display를 제어합니다.
+- 캐시 방지를 위해 style.css / script.js 버전을 v=5로 올렸습니다.
