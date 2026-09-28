@@ -56,7 +56,7 @@
           ${specRow('Color',p.color)}
           ${specRow('Origin',p.origin)}
         </div>
-        <div class="card-code">${esc(p.product_code||p.category||'')}</div>
+
       </div>
       ${actions.length?`<div class="card-actions ${actions.length===1?'single':''}">${actions.join('')}</div>`:''}
     </article>`;
