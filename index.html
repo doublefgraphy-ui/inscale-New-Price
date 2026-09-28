@@ -5,14 +5,17 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#f7f6f3" />
   <title>INSCALE SHOWROOM · PRICE & SPEC</title>
-  <link rel="stylesheet" href="style.css?v=20260928-1" />
+  <link rel="stylesheet" href="style.css?v=20260928-2" />
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
       <button class="brand" id="homeBtn" aria-label="맨 위로">
-        <span class="brand-word">INSCALE</span>
-        <span class="brand-sub">SHOWROOM · PRICE & SPEC</span>
+        <span class="brand-text-desktop">
+          <span class="brand-word">INSCALE</span>
+          <span class="brand-sub">SHOWROOM · PRICE & SPEC</span>
+        </span>
+        <img class="brand-logo-mobile" src="inscale-logo.svg" alt="INSCALE" />
       </button>
       <div class="header-meta">
         <span class="private-note">INTERNAL SHOWROOM CATALOG</span>
@@ -73,31 +76,23 @@
     <span>Internal showroom catalog</span>
   </footer>
 
-  <div class="detail-modal" id="detailModal" hidden>
-    <div class="modal-backdrop" data-close-modal></div>
-    <article class="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detailName">
-      <button class="modal-close" data-close-modal aria-label="닫기">×</button>
-      <div class="detail-media">
-        <img id="detailImage" src="" alt="" />
-        <button class="gallery-arrow prev" id="detailPrev" aria-label="이전 이미지">‹</button>
-        <button class="gallery-arrow next" id="detailNext" aria-label="다음 이미지">›</button>
-        <span class="gallery-count" id="detailGalleryCount"></span>
+  <div class="gallery-modal" id="galleryModal" hidden>
+    <div class="gallery-backdrop" data-close-gallery></div>
+    <article class="gallery-panel" role="dialog" aria-modal="true" aria-labelledby="galleryName">
+      <button class="gallery-close" data-close-gallery aria-label="닫기">×</button>
+      <div class="gallery-head">
+        <span id="galleryBrand"></span>
+        <h2 id="galleryName"></h2>
       </div>
-      <div class="detail-content">
-        <div class="detail-topline">
-          <span class="brand-chip" id="detailBrand"></span>
-          <span class="floor-chip" id="detailFloor"></span>
-        </div>
-        <h2 id="detailName"></h2>
-        <p class="detail-code" id="detailCode"></p>
-        <div class="detail-price" id="detailPrice"></div>
-        <div class="detail-sale" id="detailSale" hidden></div>
-        <dl class="detail-spec" id="detailSpec"></dl>
-        <div class="detail-actions" id="detailActions"></div>
+      <div class="gallery-stage">
+        <button class="gallery-arrow prev" id="galleryPrev" aria-label="이전 이미지">‹</button>
+        <img id="galleryImage" src="" alt="" />
+        <button class="gallery-arrow next" id="galleryNext" aria-label="다음 이미지">›</button>
       </div>
+      <div class="gallery-count" id="galleryCount"></div>
     </article>
   </div>
 
-  <script src="script.js?v=20260928-1"></script>
+  <script src="script.js?v=20260928-2"></script>
 </body>
 </html>
